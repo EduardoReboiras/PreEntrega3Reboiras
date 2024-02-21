@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    width: 250px;
+    height: 240px;
+}
+
+li{
+    border: 1px solid black;
+}
+
+.ig{
+    width: 20px;
+    height: 20px;
+}
+
+a:hover{
+    background-color: rgba(204, 197, 134, 0.212);
+}

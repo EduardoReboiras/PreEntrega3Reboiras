@@ -1,0 +1,22 @@
+.nosotros{
+    display: flex;
+    flex-direction: column;
+    
+}
+.texto{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    text-align: center;
+    
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+main{
+    background-color: #EBD9B4;
+}
+.section img{
+    width: 100%;
+}

@@ -1,0 +1,18 @@
+.container-fluid {
+    background-color: $mainColor;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+    &-nav{ justify-content: right;
+        gap: 15px;
+        font-size: large;
+        margin-top: 80px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        &:hover{
+            background-color: rgba(248, 209, 165, 0.707);
+        }
+
+    }
+    
+}
